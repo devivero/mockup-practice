@@ -26,11 +26,6 @@ nav {
   background: #A9A9A9;
 }
 
-/*main {
-  max-width: 68rem;
-  margin: 0 auto;
-}*/
-
 img {
   display: block;
   margin: 1rem auto;
@@ -51,11 +46,22 @@ footer ul {
   list-style-type: none;
 }
 
+aside h3 {
+  text-align: center;
+}
+
+.book-now-link {
+  font-weight: normal;
+  font-style: normal;
+  font-size: .8rem;
+  text-align: right;
+}
+
 .side-info {
   border: 1px solid #333;
   margin: 0 auto;
   position: relative;
-  width: 30rem;
+  width: 17rem;
 }
 
 .site-story {
@@ -68,4 +74,17 @@ footer ul {
   font-weight: normal;
   font-style: italic;
   font-size: 1rem;
+}
+
+.cat-name {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.cat-of-the-week {
+  max-height:120px;
+  width: auto;
+  height: auto;
 }
