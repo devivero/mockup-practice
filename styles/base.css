@@ -40,6 +40,7 @@ p {
 footer {
   background: black;
   color: white;
+  font-size: .75rem;
 }
 
 footer ul {
@@ -87,4 +88,17 @@ aside h3 {
   max-height:120px;
   width: auto;
   height: auto;
+}
+
+.about-us {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.25rem;
+  font-family: 'Griffy', cursive;
+}
+
+.rates-info {
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 1.25rem;
 }
