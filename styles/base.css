@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+header {
+  background: black;
+}
+
+header h1{
+  color: white;
+  font-size: 2rem;
+}
+
+header p {
+  color: grey;
+  font-size: 1rem;
+
+}
+
+nav {
+  background: #A9A9A9;
+}
+
+/*main {
+  max-width: 68rem;
+  margin: 0 auto;
+}*/
+
+img {
+  display: block;
+  margin: 1rem auto;
+}
+
+p {
+  font-size: 2rem;
+  margin: 1rem 0;
+  padding: 0.5rem;
+}
+
+footer {
+  background: black;
+  color: white;
+}
+
+footer ul {
+  list-style-type: none;
+}
+
+.side-info {
+  border: 1px solid #333;
+  margin: 0 auto;
+  position: relative;
+  width: 30rem;
+}
+
+.site-story {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1rem;
+}
+
+.testimonials {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1rem;
+}
